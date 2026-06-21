@@ -1,7 +1,7 @@
-# Sales Dashboard
+# Sales Analysis Dashboard
 
-## Overview
-This Excel projects focuses on analysing sales data and creating a dashboard to show key business insights
+## Project Overview
+This Excel projects was created to analyse sales performance and provide business insight through interactive visualizations.
 
 ## Tools Used
 - Microsoft Excel
@@ -11,19 +11,24 @@ This Excel projects focuses on analysing sales data and creating a dashboard to 
 - Conditional Formatting
 
 ## Key Features
-- Total sales overview
-- Sales by month
-- Sales by product/category
-- Interactive filters
-- Clear dashboard layout
+- Sales trends analysis
+- Product performance tracking
+- Category comparison
+- interactive dashboard filters
+- KPI visualisation
 
 ## Files to add Later
-- Excel workbook
-- Dashboards Screenshots
-- Dataset
+- Sales_Analysis_Completed.xlsx
+- Dashboard_screenshot.PNG
 
-## What I Learned
+## Skills Demostrated
 - Data Cleaning
-- Pivot Table Analysis
-- Dashboard design
+- Data Analysis
+- Dashboard development
 - Business reporting
+- Excel visualisation
+
+# Future Improvements
+- Power Query integration
+- Automated reporting
+- Additional KPI metrics
