@@ -68,12 +68,9 @@ Images were preprocessed and loaded using PyTorch DataLoaders for training and e
 
 ---
 
-## Files Included
+## Saved Models
 
-- Chest_XRay_Pneumonia.ipynb
-- model_0_resnet.pth
-- model_1_efficientnet.pth
-- model_2_mobilenet.pth
+The trained model weight are stored in the Models folders and can be loaded for inference or further fine-tuning.
 
 ---
 
@@ -85,6 +82,22 @@ Images were preprocessed and loaded using PyTorch DataLoaders for training and e
 - Transfer Learning significantly improved performance on the medical imaging dataset.
 
 ---
+## Skills Demostrated
+
+- Deep Learning
+- Transfer Learning
+- Image Classification
+- Computer Vision
+- Pytorch
+- Model Evaluation
+- Data Visualization
+- Medical Image Analysis
+
+--- 
+
+## Best Performing Model
+
+EfficientNet-B0 achieved the highest test accuracy of 89.84%, outperforming ResNet18 and MobileNetV3
 
 ## Future Improvements
 
