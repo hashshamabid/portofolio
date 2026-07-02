@@ -1,13 +1,9 @@
 # Models
 
-This folder contains the trained model weights used for Gym Exercise Classification.
+The trained model files are not included in this repository due to GitHub file size limitations.
 
-## Model
+Available models:
 
-- ResNet18 (Transfer Learning)
+- ResNet18
 
-## File
-
-- gym_exercise_resnet18.pth
-
-The model was trained to classify gym exercises from images and can be used for inference, evaluation, or further fine-tuning.
+The notebooks contain the code required to train and reproduce the models.
